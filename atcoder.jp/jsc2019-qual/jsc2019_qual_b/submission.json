@@ -1,0 +1,12 @@
+{
+	"id": 13599242,
+	"epoch_second": 1590412361,
+	"problem_id": "jsc2019_qual_b",
+	"contest_id": "jsc2019-qual",
+	"user_id": "kota0501",
+	"language": "PyPy3 (2.4.0)",
+	"point": 300,
+	"length": 1794,
+	"result": "AC",
+	"execution_time": 259
+}
