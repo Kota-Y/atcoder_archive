@@ -1,0 +1,12 @@
+{
+	"id": 13716969,
+	"epoch_second": 1590840204,
+	"problem_id": "nomura2020_a",
+	"contest_id": "nomura2020",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1195,
+	"result": "AC",
+	"execution_time": 197
+}
