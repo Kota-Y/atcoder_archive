@@ -1,0 +1,12 @@
+{
+	"id": 14275705,
+	"epoch_second": 1592119301,
+	"problem_id": "tokiomarine2020_c",
+	"contest_id": "tokiomarine2020",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 500,
+	"length": 1594,
+	"result": "AC",
+	"execution_time": 1209
+}
