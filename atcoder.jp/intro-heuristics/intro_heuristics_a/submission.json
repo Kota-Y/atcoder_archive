@@ -1,0 +1,12 @@
+{
+	"id": 14823548,
+	"epoch_second": 1593353818,
+	"problem_id": "intro_heuristics_a",
+	"contest_id": "intro-heuristics",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 61813170,
+	"length": 2861,
+	"result": "AC",
+	"execution_time": 1856
+}
