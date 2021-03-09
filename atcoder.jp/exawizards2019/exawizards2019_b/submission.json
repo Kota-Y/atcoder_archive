@@ -1,0 +1,12 @@
+{
+	"id": 20799579,
+	"epoch_second": 1615302294,
+	"problem_id": "exawizards2019_b",
+	"contest_id": "exawizards2019",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 200,
+	"length": 1246,
+	"result": "AC",
+	"execution_time": 135
+}
