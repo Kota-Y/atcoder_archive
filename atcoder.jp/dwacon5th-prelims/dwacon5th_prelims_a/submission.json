@@ -1,0 +1,12 @@
+{
+	"id": 21507799,
+	"epoch_second": 1617557635,
+	"problem_id": "dwacon5th_prelims_a",
+	"contest_id": "dwacon5th-prelims",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 200,
+	"length": 1467,
+	"result": "AC",
+	"execution_time": 126
+}
