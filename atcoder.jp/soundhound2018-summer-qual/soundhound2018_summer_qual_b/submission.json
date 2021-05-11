@@ -1,0 +1,12 @@
+{
+	"id": 22526029,
+	"epoch_second": 1620747410,
+	"problem_id": "soundhound2018_summer_qual_b",
+	"contest_id": "soundhound2018-summer-qual",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 200,
+	"length": 1281,
+	"result": "AC",
+	"execution_time": 113
+}
