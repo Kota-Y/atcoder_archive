@@ -1,0 +1,12 @@
+{
+	"id": 22878320,
+	"epoch_second": 1621783773,
+	"problem_id": "code_formula_2014_qualB_b",
+	"contest_id": "code-formula-2014-qualb",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 313,
+	"result": "AC",
+	"execution_time": 61
+}
