@@ -1,0 +1,12 @@
+{
+	"id": 23139138,
+	"epoch_second": 1622657594,
+	"problem_id": "mujin_pc_2016_a",
+	"contest_id": "mujin-pc-2016",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1392,
+	"result": "AC",
+	"execution_time": 128
+}
