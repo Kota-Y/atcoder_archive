@@ -1,0 +1,12 @@
+{
+	"id": 24637287,
+	"epoch_second": 1627709029,
+	"problem_id": "gigacode_2019_a",
+	"contest_id": "gigacode-2019",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 78,
+	"result": "AC",
+	"execution_time": 70
+}
