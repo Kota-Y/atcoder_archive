@@ -1,0 +1,12 @@
+{
+	"id": 25105912,
+	"epoch_second": 1629130740,
+	"problem_id": "dwango2015_prelims_1",
+	"contest_id": "dwango2015-prelims",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1391,
+	"result": "AC",
+	"execution_time": 105
+}
