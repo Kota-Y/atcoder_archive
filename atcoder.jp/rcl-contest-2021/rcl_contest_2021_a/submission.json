@@ -1,0 +1,12 @@
+{
+	"id": 25375536,
+	"epoch_second": 1630130394,
+	"problem_id": "rcl_contest_2021_a",
+	"contest_id": "rcl-contest-2021",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 43913,
+	"length": 2451,
+	"result": "AC",
+	"execution_time": 363
+}
