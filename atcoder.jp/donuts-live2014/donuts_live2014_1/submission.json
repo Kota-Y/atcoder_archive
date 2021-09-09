@@ -1,0 +1,12 @@
+{
+	"id": 25711154,
+	"epoch_second": 1631204133,
+	"problem_id": "donuts_live2014_1",
+	"contest_id": "donuts-live2014",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1765,
+	"result": "AC",
+	"execution_time": 140
+}
