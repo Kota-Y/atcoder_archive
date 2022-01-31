@@ -1,0 +1,12 @@
+{
+	"id": 28980002,
+	"epoch_second": 1643642108,
+	"problem_id": "code_festival_qualA_c",
+	"contest_id": "code-festival-2014-quala",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1520,
+	"result": "AC",
+	"execution_time": 100
+}
