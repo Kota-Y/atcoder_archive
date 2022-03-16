@@ -1,0 +1,12 @@
+{
+	"id": 30161413,
+	"epoch_second": 1647407037,
+	"problem_id": "ttpc2015_a",
+	"contest_id": "ttpc2015",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 50,
+	"length": 1549,
+	"result": "AC",
+	"execution_time": 188
+}
