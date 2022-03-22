@@ -1,0 +1,12 @@
+{
+	"id": 30355181,
+	"epoch_second": 1647965929,
+	"problem_id": "code_thanks_festival_2018_a",
+	"contest_id": "code-thanks-festival-2018",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1523,
+	"result": "AC",
+	"execution_time": 102
+}
