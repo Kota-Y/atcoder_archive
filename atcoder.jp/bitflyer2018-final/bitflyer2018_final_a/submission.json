@@ -1,0 +1,12 @@
+{
+	"id": 31787682,
+	"epoch_second": 1652888790,
+	"problem_id": "bitflyer2018_final_a",
+	"contest_id": "bitflyer2018-final",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 200,
+	"length": 1676,
+	"result": "AC",
+	"execution_time": 134
+}
