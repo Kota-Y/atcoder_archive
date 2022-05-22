@@ -1,0 +1,12 @@
+{
+	"id": 31904279,
+	"epoch_second": 1653235705,
+	"problem_id": "colopl2018_qual_a",
+	"contest_id": "colopl2018-qual",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1468,
+	"result": "AC",
+	"execution_time": 144
+}
