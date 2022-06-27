@@ -1,0 +1,12 @@
+{
+	"id": 32803231,
+	"epoch_second": 1656343490,
+	"problem_id": "relay2018_a",
+	"contest_id": "cf18-relay-open",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1564,
+	"result": "AC",
+	"execution_time": 139
+}
