@@ -1,0 +1,12 @@
+{
+	"id": 33014205,
+	"epoch_second": 1657085649,
+	"problem_id": "judge_update_202004_a",
+	"contest_id": "judge-update-202004",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1503,
+	"result": "AC",
+	"execution_time": 125
+}
