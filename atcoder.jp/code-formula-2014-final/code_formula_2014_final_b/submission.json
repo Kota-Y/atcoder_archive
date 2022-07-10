@@ -1,0 +1,12 @@
+{
+	"id": 33151258,
+	"epoch_second": 1657467190,
+	"problem_id": "code_formula_2014_final_b",
+	"contest_id": "code-formula-2014-final",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 225,
+	"result": "AC",
+	"execution_time": 62
+}
