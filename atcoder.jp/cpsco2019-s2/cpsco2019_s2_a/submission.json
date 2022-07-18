@@ -1,0 +1,12 @@
+{
+	"id": 33348117,
+	"epoch_second": 1658157829,
+	"problem_id": "cpsco2019_s2_a",
+	"contest_id": "cpsco2019-s2",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1486,
+	"result": "AC",
+	"execution_time": 294
+}
