@@ -1,0 +1,12 @@
+{
+	"id": 33735281,
+	"epoch_second": 1659456603,
+	"problem_id": "pakencamp_2021_day3_b",
+	"contest_id": "pakencamp-2021-day3",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 300,
+	"length": 2053,
+	"result": "AC",
+	"execution_time": 255
+}
