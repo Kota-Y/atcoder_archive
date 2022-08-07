@@ -1,0 +1,12 @@
+{
+	"id": 33868356,
+	"epoch_second": 1659896427,
+	"problem_id": "wupc2012_1",
+	"contest_id": "wupc2012",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 423,
+	"result": "AC",
+	"execution_time": 64
+}
