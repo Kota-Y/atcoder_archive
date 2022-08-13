@@ -1,0 +1,12 @@
+{
+	"id": 34026441,
+	"epoch_second": 1660405288,
+	"problem_id": "abc264_a",
+	"contest_id": "abc264",
+	"user_id": "kota0501",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 1443,
+	"result": "AC",
+	"execution_time": 109
+}
